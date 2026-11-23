@@ -1,0 +1,99 @@
+{
+  "Success": true,
+  "Model": "B16",
+  "Image": "samoyed-option-1",
+  "Top3": [
+    {
+      "Class": "Samoyede",
+      "Index": 258,
+      "Probability": 0.9056673647475778
+    },
+    {
+      "Class": "Great Pyrenees",
+      "Index": 257,
+      "Probability": 0.0012447986337599574
+    },
+    {
+      "Class": "Eskimo Dog",
+      "Index": 248,
+      "Probability": 0.001142478824049819
+    }
+  ],
+  "NativeNumPyMaximumError": 5.551115123125783e-16,
+  "Errors": {
+    "HeadPatchMaps": 0.0,
+    "MeanPatchMaps": 0.0,
+    "RolloutPatchMaps": 1.734723475976807e-17,
+    "PreviousCLSFootprint": 1.5612511283791264e-17,
+    "HeadEntropies": 5.551115123125783e-16,
+    "HeadPatchMasses": 0.0,
+    "SpatialHeadMixtureWeights": 2.7755575615628914e-17,
+    "WeightedHeadEntropy": 2.220446049250313e-16,
+    "MeanHeadEntropy": 3.3306690738754696e-16,
+    "HeadJensenShannon": 4.440892098500626e-16,
+    "RolloutEntropy": 3.3306690738754696e-16,
+    "RolloutPatchMass": 2.220446049250313e-16,
+    "MaxRowTVFromCLS": 1.1102230246251565e-16,
+    "MeanRowTVFromCLS": 1.1102230246251565e-16
+  },
+  "MostConcentratedHead": 11,
+  "LeastConcentratedHead": 4,
+  "LastLayer": {
+    "Layer": 12,
+    "HeadEntropies": [
+      0.6420805867937908,
+      0.5265499991951627,
+      0.5798395723801166,
+      0.7707891952030035,
+      0.5768103806690335,
+      0.59779508801274,
+      0.5413259846415285,
+      0.5187507153658131,
+      0.6114595334902719,
+      0.6612791446158769,
+      0.5035998328711532,
+      0.7602043324700412
+    ],
+    "HeadPatchMasses": [
+      0.8166169449687004,
+      0.5848202169709111,
+      0.688266489727539,
+      0.6669350006850436,
+      0.5535453269876598,
+      0.5496464814605133,
+      0.4876191468192701,
+      0.5658958881795115,
+      0.757292394155229,
+      0.6990013605027343,
+      0.5466697868109804,
+      0.9171504757832736
+    ],
+    "SpatialHeadMixtureWeights": [
+      0.1042472924776251,
+      0.07465669746509052,
+      0.08786239190753649,
+      0.08513926695783133,
+      0.0706642226292732,
+      0.07016650568560986,
+      0.06224825008756928,
+      0.07224086461884045,
+      0.09667406755514601,
+      0.08923277886840733,
+      0.06978650823434668,
+      0.1170811535127238
+    ],
+    "WeightedHeadEntropy": 0.6189629405574125,
+    "MeanHeadEntropy": 0.6423062518758457,
+    "HeadJensenShannon": 0.023343311318433146,
+    "RolloutEntropy": 0.9895435420932222,
+    "RolloutPatchMass": 0.9024864159831326,
+    "MaxRowTVFromCLS": 0.007413108399100813,
+    "MeanRowTVFromCLS": 0.004913874749286408
+  },
+  "FinalMixture": {
+    "MaximumError": 1.9081958235744878e-17,
+    "WeightSum": 0.9999999999999999,
+    "MaxPreviousRowTVFromCLS": 0.016292619366258147,
+    "FinalTVFromPreviousCLS": 0.0017658803178876167
+  }
+}
