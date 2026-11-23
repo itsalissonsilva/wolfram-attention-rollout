@@ -1,0 +1,11 @@
+{
+  "URL": "https://www.wolframcloud.com/obj/5b20efd2-a716-4980-a54f-c94c5415cb2d",
+  "Bytes": 346354480,
+  "SHA256": "09b0361bcb217bd29830cd01229f6f622fc19fbc5d2309d7ac57aeb6a682e772",
+  "Name": "Vision Transformer Trained on ImageNet Competition Data",
+  "ModelSize": "Base",
+  "PatchSize": 16,
+  "LocalFile": ".cache/vit-base16.wlnet",
+  "SourcePage": "https://resources.wolframcloud.com/NeuralNetRepository/resources/Vision-Transformer-Trained-on-ImageNet-Competition-Data/",
+  "Normalization": "VarianceImage is set to {0.229, 0.224, 0.225}^2; weights are unchanged."
+}

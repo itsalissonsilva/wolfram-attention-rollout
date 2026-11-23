@@ -1,0 +1,18 @@
+{
+  "ID": "samoyed",
+  "Label": "PyTorch Hub Samoyed",
+  "Repository": "pytorch/hub",
+  "Revision": "c3beaae7d32fca2a23fec30aa7938ef5c9b6e5d5",
+  "SourcePath": "images/dog.jpg",
+  "URL": "https://raw.githubusercontent.com/pytorch/hub/c3beaae7d32fca2a23fec30aa7938ef5c9b6e5d5/images/dog.jpg",
+  "SourcePage": "https://github.com/pytorch/hub/blob/c3beaae7d32fca2a23fec30aa7938ef5c9b6e5d5/images/dog.jpg",
+  "UsageReference": "https://pytorch.org/hub/pytorch_vision_resnet/",
+  "LocalFile": ".cache/image-suite/samoyed.jpg",
+  "Selection": "Photograph selected before inspecting its attention maps.",
+  "Dimensions": [
+    1546,
+    1213
+  ],
+  "SHA256": "f3f87bb8ab3c26c7ecfd3ac60421d7f32b0503d1d6c5baf8bac42ed93d86351a",
+  "Bytes": 661378
+}

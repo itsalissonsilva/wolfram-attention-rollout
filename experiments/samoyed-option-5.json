@@ -1,0 +1,21 @@
+{
+  "ID": "samoyed-option-5",
+  "OptionNumber": 5,
+  "Label": "Samoyed in winter",
+  "URL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Samoyed_winter.jpg/960px-Samoyed_winter.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+  "SourcePage": "https://commons.wikimedia.org/wiki/File:Samoyed_winter.jpg",
+  "Author": "Dominika.czarniewska",
+  "License": "CC0 1.0",
+  "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "LocalFile": ".cache/image-suite/samoyed-option-5.jpg",
+  "Selection": "Photograph selected before inspecting its attention maps.",
+  "OriginalURL": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Samoyed_winter.jpg",
+  "Retrieval": "Commons 960-pixel preview; full original returned HTTP 429.",
+  "Dimensions": [
+    960,
+    1280
+  ],
+  "EXIFOrientation": 1,
+  "SHA256": "b8a427901cada1a78e413cb70d66327859dc40c31d3a4ec308945ce138937abe",
+  "Bytes": 500719
+}

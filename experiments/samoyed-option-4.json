@@ -1,0 +1,19 @@
+{
+  "ID": "samoyed-option-4",
+  "OptionNumber": 4,
+  "Label": "Samoyed at the Koira dog show",
+  "URL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Samoyed_Koira_2013.JPG",
+  "SourcePage": "https://commons.wikimedia.org/wiki/File:Samoyed_Koira_2013.JPG",
+  "Author": "Томасина",
+  "License": "CC BY-SA 3.0",
+  "LicenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "LocalFile": ".cache/image-suite/samoyed-option-4.jpg",
+  "Selection": "Photograph selected before inspecting its attention maps.",
+  "Dimensions": [
+    1527,
+    1299
+  ],
+  "EXIFOrientation": 1,
+  "SHA256": "65c39769a69c3a5ea7c20c5385046a892ce2a20865cd7e910ae43703f66e67e9",
+  "Bytes": 404859
+}

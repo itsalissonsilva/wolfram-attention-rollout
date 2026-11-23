@@ -1,0 +1,19 @@
+{
+  "ID": "samoyed-option-1",
+  "OptionNumber": 1,
+  "Label": "Young Samoyed on grass",
+  "URL": "https://upload.wikimedia.org/wikipedia/commons/7/74/Samoyed_dog.jpg",
+  "SourcePage": "https://commons.wikimedia.org/wiki/File:Samoyed_dog.jpg",
+  "Author": "Ruerd Kroon",
+  "License": "CC BY-SA 4.0",
+  "LicenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "LocalFile": ".cache/image-suite/samoyed-option-1.jpg",
+  "Selection": "Photograph selected before inspecting its attention maps.",
+  "Dimensions": [
+    768,
+    1024
+  ],
+  "EXIFOrientation": 1,
+  "SHA256": "59b702079f42abfcdf630d1254a56c5861ba50dcf417d9e3b08cf8bfbbeda17b",
+  "Bytes": 97307
+}
