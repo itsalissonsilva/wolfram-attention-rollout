@@ -1,0 +1,212 @@
+{
+  "WolframCoreTests": {
+    "Success": true,
+    "Version": "15.0.1 for Microsoft Windows (64-bit) (July 2, 2026)",
+    "Passed": 19,
+    "Total": 19,
+    "Tests": [
+      {
+        "Name": "Residual-aware two-layer composition",
+        "Passed": true
+      },
+      {
+        "Name": "Fixture detects reversed multiplication",
+        "Passed": true
+      },
+      {
+        "Name": "No-residual composition",
+        "Passed": true
+      },
+      {
+        "Name": "Identity remains identity",
+        "Passed": true
+      },
+      {
+        "Name": "Uniform attention remains uniform without residuals",
+        "Passed": true
+      },
+      {
+        "Name": "Mean-head fusion",
+        "Passed": true
+      },
+      {
+        "Name": "One layer equals adjusted attention",
+        "Passed": true
+      },
+      {
+        "Name": "Every rollout row remains normalized",
+        "Passed": true
+      },
+      {
+        "Name": "Reject transposed stochastic matrices",
+        "Passed": true
+      },
+      {
+        "Name": "Reject negative weights",
+        "Passed": true
+      },
+      {
+        "Name": "Reject non-square attention",
+        "Passed": true
+      },
+      {
+        "Name": "Reject empty input",
+        "Passed": true
+      },
+      {
+        "Name": "Reject invalid residual weight",
+        "Passed": true
+      },
+      {
+        "Name": "Patch order and special-token exclusion",
+        "Passed": true
+      },
+      {
+        "Name": "Reject mismatched patch grid",
+        "Passed": true
+      },
+      {
+        "Name": "Reject complex attention",
+        "Passed": true
+      },
+      {
+        "Name": "Reject nonfinite attention",
+        "Passed": true
+      },
+      {
+        "Name": "Reject ragged attention",
+        "Passed": true
+      },
+      {
+        "Name": "B16-sized packed uniform attention",
+        "Passed": true
+      }
+    ]
+  },
+  "CachedExamples": {
+    "Success": true,
+    "Version": "15.0.1 for Microsoft Windows (64-bit) (July 2, 2026)",
+    "Examples": [
+      {
+        "ID": "samoyed",
+        "Passed": true,
+        "MaximumMapError": 0.0,
+        "Top3": [
+          {
+            "Class": "Samoyede",
+            "Index": 258,
+            "Probability": 0.7516021314140204
+          },
+          {
+            "Class": "Pomeranian",
+            "Index": 259,
+            "Probability": 0.06663485230240537
+          },
+          {
+            "Class": "Keeshond",
+            "Index": 261,
+            "Probability": 0.01964612149952836
+          }
+        ]
+      },
+      {
+        "ID": "samoyed-option-4",
+        "Passed": true,
+        "MaximumMapError": 0.0,
+        "Top3": [
+          {
+            "Class": "Samoyede",
+            "Index": 258,
+            "Probability": 0.8501043078922231
+          },
+          {
+            "Class": "Pomeranian",
+            "Index": 259,
+            "Probability": 0.01619964729646553
+          },
+          {
+            "Class": "Keeshond",
+            "Index": 261,
+            "Probability": 0.006987063995873816
+          }
+        ]
+      },
+      {
+        "ID": "samoyed-option-5",
+        "Passed": true,
+        "MaximumMapError": 0.0,
+        "Top3": [
+          {
+            "Class": "Great Pyrenees",
+            "Index": 257,
+            "Probability": 0.8302068319368504
+          },
+          {
+            "Class": "Samoyede",
+            "Index": 258,
+            "Probability": 0.1010034032764843
+          },
+          {
+            "Class": "Kuvasz",
+            "Index": 222,
+            "Probability": 0.00733893379197841
+          }
+        ]
+      },
+      {
+        "ID": "samoyed-option-1",
+        "Passed": true,
+        "MaximumMapError": 0.0,
+        "Top3": [
+          {
+            "Class": "Samoyede",
+            "Index": 258,
+            "Probability": 0.9056673647475778
+          },
+          {
+            "Class": "Great Pyrenees",
+            "Index": 257,
+            "Probability": 0.0012447986337599574
+          },
+          {
+            "Class": "Eskimo Dog",
+            "Index": 248,
+            "Probability": 0.001142478824049819
+          }
+        ]
+      }
+    ]
+  },
+  "Notebook": {
+    "Success": true,
+    "Version": "15.0.1 for Microsoft Windows (64-bit) (July 2, 2026)",
+    "InputCellCount": 2,
+    "ExecutableCellStructure": true,
+    "ToyResult": "{{0, 1, 0}, {0, 0, 1}, 10}",
+    "MaximumMapError": 0.0,
+    "CachedCellPresent": false
+  },
+  "NotebookSHA256": "68e9093349c1a2691022252d2d02d07a32d82bbf0146c61fee1749df324be31f",
+  "NumPyMaximumErrors": {
+    "samoyed": 5.551115123125783e-16,
+    "samoyed-option-4": 5.551115123125783e-16,
+    "samoyed-option-5": 4.440892098500626e-16,
+    "samoyed-option-1": 5.551115123125783e-16
+  },
+  "RegeneratedFiguresMatchSavedPixels": {
+    "samoyed": true,
+    "samoyed-option-4": true,
+    "samoyed-option-5": true,
+    "samoyed-option-1": true
+  },
+  "FreshInferenceMaximumErrors": {
+    "attention.f32": 0.0,
+    "input.f32": 0.0,
+    "logits": 0.0
+  },
+  "PythonPackages": {
+    "numpy": "2.4.2",
+    "matplotlib": "3.10.8",
+    "Pillow": "12.1.1"
+  }
+}
